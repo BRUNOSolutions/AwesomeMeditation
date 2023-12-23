@@ -10,12 +10,12 @@
 
 ## Contents
 
-- [Programming](#programming)
+- [Programming](#programming) *in neuroscience*
   - [Python](#python)
   - [Matlab](#matlab)
   - [C++](#c)
   - [JavaScript](#javascript)
-- [Resources](#resources)
+- [Resources](#resources) *from neuroscience*
   - [Ebooks](#ebooks)
   - [Blogs](#blogs)
   - [MOOCs](#moocs)
