@@ -22,6 +22,10 @@
   - [Communities](#communities)
   - [Newsletters](#newsletters)
   - [Miscellaneous](#miscellaneous)
+- [Prayer](#prayer) *and measurable neurophysical implications*
+- [Meditation](#meditation) *and measurable neurophysical implications
+    
+
 
 
 ## Programming
@@ -107,6 +111,9 @@ MOOCs may be patterned on a college or university course or may be less structur
 - [neuroSummerSchools](https://github.com/PhABC/neuroSummerSchools) - List of summer (and seasonal) summer schools in neuroscience and related fields.
 - [Brain Matters](https://brainpodcast.com/) - Neuroscience podcast where real neuroscientists sit down and talk about the brain.
 
+## Prayer
+
+## Meditation
 
 ## Contribute
 
