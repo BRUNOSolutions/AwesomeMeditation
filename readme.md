@@ -22,8 +22,8 @@
   - [Communities](#communities)
   - [Newsletters](#newsletters)
   - [Miscellaneous](#miscellaneous)
-- [Prayer](#prayer) *and its measurable neurophysical implications*
-- [Meditation](#meditation) *and its measurable neurophysical implications*
+- [Prayer](#prayer) *and especially its measurable neurophysical implications*
+- [Meditation](#meditation) *and especially its measurable neurophysical implications*
     
 
 
