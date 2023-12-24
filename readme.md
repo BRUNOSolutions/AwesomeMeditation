@@ -1,7 +1,7 @@
 <!-- ![Awesome Neuroscience](./AWESOME2.png) -->
 <img src="./AWESOME2.png" width="50%">
 
-> A curated list focused primarily on neuroscience with specific focus on the especially AWESOME content related to prayer and meditation affect the the measurable neurophysical domain.
+A curated list focused primarily on neuroscience with specific focus on the especially AWESOME content related to how prayer and meditation affect the the measurable neurophysical domain ... the reason to measure any kind of thing, eg prayer, meditation, is really about studying that thing itself, understanding it better and improving the thing itself dramatically ... ***in addition to*** achieving side benefits. But we are not exactly here to study the side benefits, mostly it's about prayer and meditation in themselves, but measurable neuroscience helps us to better understand what's going in on our minds as they are engaged in prayer or meditation.
 
 [Neuroscience](https://en.wikipedia.org/wiki/Neuroscience) is the study of how the nervous system develops, its structure, and what it does. Neuroscientists focus on the brain and its impact on behavior and cognitive functions. Traditionally, neuroscience has been seen as a branch of biology, but it has grown to encompass a wide range of interdisciplinary fields that work together toward elucidating brain function at multiple levels of investigation. This particular repository is especially focused on the literature pertaining to monks and others who have developed a disciplined practice of meditation and prayer.
 
